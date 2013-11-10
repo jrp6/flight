@@ -11,7 +11,7 @@ Make will compile the program to ./bin/flight.out
 ***********
 * RUNNING *
 ***********
-$ bin/flight
+$ bin/flight.out
 
 *********
 * STORY *
