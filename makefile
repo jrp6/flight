@@ -18,7 +18,7 @@ obj/plane.o: src/plane.cpp
 
 #Compilation
 software: $(PROJECT)
-	g++ $(PROJECT) $(CXXFLAGS) $(LDFLAGS) -o bin/flight
+	g++ $(PROJECT) $(CXXFLAGS) $(LDFLAGS) -o bin/flight.out
 
 clean:
 	rm -f $(PROJECT)

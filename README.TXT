@@ -6,7 +6,7 @@ Licensed under the MIT license
 * COMPILATION *
 ***************
 $ make
-Make will compile the program to ./bin/flight
+Make will compile the program to ./bin/flight.out
 
 ***********
 * RUNNING *
